@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-01T10:20:47.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.114 YaBrowser/22.9.1.1095 Yowser/2.5 Safari/537.36" etag="D8Na9a7Gm-YL9fQSYQQU" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T18:15:06.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.124 YaBrowser/22.9.3.886 Yowser/2.5 Safari/537.36" etag="_0xI9U5LFzMFfaejdbkX" version="20.5.0" type="github">
   <diagram id="APbOYpsex_Ebenarrm__" name="Страница 1">
-    <mxGraphModel dx="2249" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2484" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,34 +29,34 @@
         </mxCell>
         <mxCell id="-_RNkPM9lZLHpSTQkM_h-1" value="Дисциплина" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="970" width="240" height="360" as="geometry">
-            <mxRectangle x="60" y="70" width="120" height="30" as="alternateBounds" />
+            <mxRectangle x="-800" y="970" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-_RNkPM9lZLHpSTQkM_h-2" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Er0C9rFsmTtlIVnP-Un_-6" value="Код специальности" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-_RNkPM9lZLHpSTQkM_h-1">
+        <mxCell id="Er0C9rFsmTtlIVnP-Un_-6" value="Код специальности" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="60" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-_RNkPM9lZLHpSTQkM_h-3" value="ПП специальности (9/11)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="100" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Er0C9rFsmTtlIVnP-Un_-2" value="ФО специальности (о/оз/з)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-_RNkPM9lZLHpSTQkM_h-1">
+        <mxCell id="Er0C9rFsmTtlIVnP-Un_-2" value="ФО специальности (о/оз/з)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="130" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Er0C9rFsmTtlIVnP-Un_-4" value="Полное название" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-_RNkPM9lZLHpSTQkM_h-1">
+        <mxCell id="Er0C9rFsmTtlIVnP-Un_-4" value="Полное название" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="160" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Er0C9rFsmTtlIVnP-Un_-8" value="Сокращенное название" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-_RNkPM9lZLHpSTQkM_h-1">
+        <mxCell id="Er0C9rFsmTtlIVnP-Un_-8" value="Сокращенное название" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="200" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Er0C9rFsmTtlIVnP-Un_-9" value="Форма итоговой аттестации" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-_RNkPM9lZLHpSTQkM_h-1">
+        <mxCell id="Er0C9rFsmTtlIVnP-Un_-9" value="Форма итоговой аттестации" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="240" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Er0C9rFsmTtlIVnP-Un_-10" value="Количество часов по УП" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-_RNkPM9lZLHpSTQkM_h-1">
+        <mxCell id="Er0C9rFsmTtlIVnP-Un_-10" value="Количество часов по УП" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="280" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Er0C9rFsmTtlIVnP-Un_-11" value="Фактическое количество часов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="-_RNkPM9lZLHpSTQkM_h-1">
+        <mxCell id="Er0C9rFsmTtlIVnP-Un_-11" value="Фактическое количество часов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="-_RNkPM9lZLHpSTQkM_h-1" vertex="1">
           <mxGeometry y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-_RNkPM9lZLHpSTQkM_h-7" value="Добавление преподавателя в группу&#xa;(Addteachergroupclass)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -558,6 +558,34 @@
               <mxPoint x="320" y="755" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-1" value="Учебный план" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="970" width="240" height="130" as="geometry">
+            <mxRectangle x="-1150" y="970" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-2" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PyAVp90YhCviNPOmX3Yw-1">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-3" value="Код учебного плана" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PyAVp90YhCviNPOmX3Yw-1">
+          <mxGeometry y="60" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-4" value="Наименование учебного плана" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PyAVp90YhCviNPOmX3Yw-1">
+          <mxGeometry y="100" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-11" value="Учебный план" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="970" width="240" height="130" as="geometry">
+            <mxRectangle x="-1410" y="970" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-12" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PyAVp90YhCviNPOmX3Yw-11">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-13" value="Код учебного плана" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PyAVp90YhCviNPOmX3Yw-11">
+          <mxGeometry y="60" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PyAVp90YhCviNPOmX3Yw-14" value="Наименование учебного плана" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="PyAVp90YhCviNPOmX3Yw-11">
+          <mxGeometry y="100" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
